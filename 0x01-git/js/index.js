@@ -1,1 +1,1 @@
-js
+console.log("Full stack developer")
